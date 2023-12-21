@@ -8,3 +8,14 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 > **Note:** 
 > - Standalone Components 
 > - Controles de flujo
+
+# ***Sección 3: Bases de TypeScript - recomendado***
+
+1. Inicio de proyecto - TypeScript
+> **Note:** 
+> - Se crea la carpeta ó se puede trabajar en stackblitz.com
+> - En la terminal copiamos npm create vite
+> escogemos vanilla
+> seleccionamos vanilla ts
+> 1. npm install
+> 2. npm run dev
